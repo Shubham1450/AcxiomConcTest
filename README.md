@@ -1,12 +1,30 @@
-# React + Vite
+# 🎉 Event Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a full-stack Event Management System built with React. It includes separate dashboards and login/signup flows for **Admin**, **Vendor**, and **User**. The app allows users to browse vendors (Catering, Lighting, Decoration), add items to cart, and place orders.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 3. Run the Project
+## npm run dev
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🔒 Login & Signup (Admin, User, Vendor)
+- 🧾 Vendor Category Dropdown
+- 🛒 Shopping Cart with Quantity Dropdown
+- 💳 Payment and Order Success Page
+- ✅ Protected Routes (Only logged-in users can access dashboards)
+- 🗃️ Store login/session info using localStorage
+- 🛠️ Admin Panel: Maintain Users and Vendors
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React (with inline CSS)
+- **Routing:** React Router DOM
+- **State Management:** useState + localStorage
+- **Styling:** CSS-in-JS (inline styling)
+
+---
+
