@@ -3,7 +3,7 @@
 This is a full-stack Event Management System built with React. It includes separate dashboards and login/signup flows for **Admin**, **Vendor**, and **User**. The app allows users to browse vendors (Catering, Lighting, Decoration), add items to cart, and place orders.
 
 
-## 3. Run the Project
+##  Run the Project
 ## npm run dev
 
 
