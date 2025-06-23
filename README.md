@@ -7,19 +7,19 @@ This is a full-stack Event Management System built with React. It includes separ
 ## npm run dev
 
 
-## 🚀 Features
+##  Features
 
-- 🔒 Login & Signup (Admin, User, Vendor)
-- 🧾 Vendor Category Dropdown
-- 🛒 Shopping Cart with Quantity Dropdown
-- 💳 Payment and Order Success Page
-- ✅ Protected Routes (Only logged-in users can access dashboards)
-- 🗃️ Store login/session info using localStorage
-- 🛠️ Admin Panel: Maintain Users and Vendors
+- Login & Signup (Admin, User, Vendor)
+- Vendor Category Dropdown
+- Shopping Cart with Quantity Dropdown
+- Payment and Order Success Page
+- Protected Routes (Only logged-in users can access dashboards)
+- Store login/session info using localStorage
+-  Admin Panel: Maintain Users and Vendors
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React (with inline CSS)
 - **Routing:** React Router DOM
